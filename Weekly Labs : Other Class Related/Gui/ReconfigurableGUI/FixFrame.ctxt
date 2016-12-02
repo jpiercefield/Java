@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=width\ height\ title
+comment0.target=FixFrame(int,\ int,\ java.lang.String)
+comment1.params=event
+comment1.target=void\ windowClosing(java.awt.event.WindowEvent)
+comment2.params=width\ height
+comment2.target=void\ center(int,\ int)
+numComments=3

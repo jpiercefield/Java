@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=sort\ comp
+comment0.target=void\ mergeSort(java.lang.Object[],\ java.util.Comparator)
+comment1.params=sort\ comp\ first\ last
+comment1.target=void\ mergeSort(java.lang.Object[],\ java.util.Comparator,\ int,\ int)
+comment2.params=sort\ comp\ first\ mid\ last
+comment2.target=void\ merge(java.lang.Object[],\ java.util.Comparator,\ int,\ int,\ int)
+numComments=3

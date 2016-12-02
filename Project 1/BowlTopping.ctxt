@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=WW
+comment0.target=boolean\ equals(java.lang.Object)
+comment1.params=next
+comment1.target=BowlTopping(BowlProtein)
+comment2.params=next
+comment2.target=BowlTopping(BowlTopping)
+comment3.params=
+comment3.target=double\ cost()
+comment4.params=
+comment4.target=java.lang.String\ toString()
+comment5.params=
+comment5.target=boolean\ isDuplicate()
+numComments=6

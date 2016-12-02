@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=name
+comment0.target=Poke(java.lang.String)
+comment1.params=
+comment1.target=void\ poke()
+comment2.params=
+comment2.target=void\ reset()
+comment3.params=
+comment3.target=java.lang.String\ getName()
+comment4.params=
+comment4.target=int\ getNumPokes()
+comment5.params=
+comment5.target=java.lang.String\ toString()
+numComments=6

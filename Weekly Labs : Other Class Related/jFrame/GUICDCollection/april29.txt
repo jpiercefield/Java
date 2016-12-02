@@ -1,0 +1,26 @@
+Black Earth,Arch Enemy,13.99,9
+Burning Bridges,Arch Enemy,13.99,8
+Burnt Offerings,Iced Earth,15.98,8
+Character,Dark Tranquillity,13.99,11
+Damage Done,Dark Tranquillity,14.99,12
+Dark Saga,Iced Earth,13.99,10
+Gallery,Dark Tranquillity,19.99,11
+Gathering,Testament,14.99,11
+Glorious Burden,Iced Earth,14.99,12
+Glorious Burden,Iced Earth,14.99,12
+Haven,Dark Tranquillity,14.99,11
+In the Halls of Awaiting,Insomnium,15.98,10
+Mind's I,Dark Tranquillity,38.99,14
+Mind's I,Dark Tranquillity,38.99,14
+Moving Pictures,Rush,10.99,-1
+Night Of The Stormrider,Iced Earth,14.99,9
+Piece Of Mind,Iron Maiden,14.99,9
+Ride the Lightning,Metallica,13.99,8
+Rust In Peace,Megadeth,14.99,10
+Seventh Son Of A Seventh Son,Iron Maiden,14.99,8
+Since the Day It All Came Down,Insomnium,16.98,11
+Skydancer/Of Chaos and Eternal Night,Dark Tranquillity,13.99,12
+Something Wicked This Way Comes,Iced Earth,14.99,13
+Stigmata,Arch Enemy,16.98,9
+Thriller,Michael Jackson,10.99,14
+Wages of Sin,Arch Enemy,14.99,12

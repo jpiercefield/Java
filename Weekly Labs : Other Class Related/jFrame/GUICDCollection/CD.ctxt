@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.params=theTitle\ theArtist\ theValue\ theTracks
+comment0.target=CD(java.lang.String,\ java.lang.String,\ double,\ int)
+comment0.text=\r\n\ \ Creates\ a\ new\ CD\ with\ the\ specified\ information.\r\n
+comment1.params=
+comment1.target=java.lang.String\ getTitle()
+comment2.params=
+comment2.target=double\ getPrice()
+comment3.params=
+comment3.target=java.lang.String\ getArtist()
+comment4.params=
+comment4.target=int\ getTracks()
+comment5.params=theTracks
+comment5.target=void\ setTracks(int)
+comment6.params=thePrice
+comment6.target=void\ setPrice(double)
+comment7.params=other
+comment7.target=boolean\ equals(java.lang.Object)
+comment8.params=cd
+comment8.target=int\ compareTo(CD)
+comment8.text=\r\n\ \ Compares\ two\ CDs.\r\n
+comment9.params=
+comment9.target=java.lang.String\ toString()
+comment9.text=\r\n\ \ Returns\ a\ description\ of\ this\ CD.\r\n
+numComments=10

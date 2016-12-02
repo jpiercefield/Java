@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=baseChar
+comment0.target=boolean\ buildBase(char)
+comment1.params=proteinChar
+comment1.target=boolean\ buildProtein(char)
+comment2.params=topChar
+comment2.target=boolean\ buildTopping(char)
+comment3.params=
+comment3.target=BowlItem\ orderBowl()
+numComments=4

@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=name\ container
+comment0.target=PokeButton(java.lang.String,\ PokeGUI)
+comment1.params=poke\ container
+comment1.target=PokeButton(Poke,\ PokeGUI)
+comment2.params=container
+comment2.target=void\ reregister(PokeGUI)
+comment3.params=
+comment3.target=Poke\ getPoke()
+comment4.params=poke
+comment4.target=void\ setPoke(Poke)
+numComments=5

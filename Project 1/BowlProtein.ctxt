@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=next
+comment0.target=BowlProtein(BowlBase)
+comment1.params=next
+comment1.target=BowlProtein(BowlProtein)
+comment2.params=
+comment2.target=double\ cost()
+comment3.params=
+comment3.target=java.lang.String\ toString()
+numComments=4

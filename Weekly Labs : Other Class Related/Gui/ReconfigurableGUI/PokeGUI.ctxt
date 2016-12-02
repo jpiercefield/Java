@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=fileName
+comment0.target=PokeGUI(java.lang.String)
+comment1.params=fileName
+comment1.target=void\ setupPokeButtons(java.lang.String)
+comment2.params=
+comment2.target=void\ setupOtherButtons()
+comment3.params=fileName
+comment3.target=java.util.ArrayList\ readButtons(java.lang.String)
+comment4.params=text
+comment4.target=void\ displayText(java.lang.String)
+comment5.params=args
+comment5.target=void\ main(java.lang.String[])
+numComments=6
