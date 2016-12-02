@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Keyboard()
+comment1.params=
+comment1.target=Keyboard\ getKeyboard()
+comment2.params=prompt
+comment2.target=int\ readInt(java.lang.String)
+comment2.text=\n\ \ Reads\ an\ integer\ from\ the\ keyboard\ and\ returns\ it.\ <br>\n\ \ Uses\ the\ provided\ prompt\ to\ request\ an\ integer\ from\ the\ user.\n
+comment3.params=prompt
+comment3.target=double\ readDouble(java.lang.String)
+comment3.text=\n\ \ Reads\ a\ double\ from\ the\ keyboard\ and\ returns\ it.\ <br>\n\ \ Uses\ the\ provided\ prompt\ to\ request\ a\ double\ from\ the\ user.\n
+comment4.params=prompt
+comment4.target=java.lang.String\ readString(java.lang.String)
+comment4.text=\n\ \ Reads\ a\ line\ of\ text\ from\ the\ keyboard\ and\ returns\ it\ as\ a\ String.\ <br>\n\ \ Uses\ the\ provided\ prompt\ to\ request\ a\ line\ of\ text\ from\ the\ user.\n
+numComments=5

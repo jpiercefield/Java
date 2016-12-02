@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=args
+comment0.target=void\ main(java.lang.String[])
+comment0.text=\n\ Main\ Method-\ Takes\ in\ arguments\ of\ various\ lengths.\ <br>\n\ -Proceeds\ to\ make\ a\ Restaurant\ object\ through\ the\ various\ constructors,\ based\ on\ argument\ length.\ <br>\n\ -Creates\ new\ GUI\ object\n\ @param\ restrauntname\n
+comment1.params=name
+comment1.target=RestaurantDriverGUI(java.lang.String)
+comment1.text=\n\ Creates\ all\ necessary\ components\ for\ the\ GUI.\ \n\ Sets\ the\ layout\ (GridLayout),\ adds\ a\ TextArea\ with\ a\ ScrollPane\n\ and\ an\ area\ for\ new\ user\ input.\ \n\ Calls\ methods\ to\ initalize\ buttons\ and\ labels,\ proceeds\ to\ add\ to\ GUI.\ \n\ @param\ name\ A\ name\ for\ the\ restuarant,\ provided\ upon\ top\ of\ GUI\n
+comment2.params=
+comment2.target=void\ initLabels()
+comment2.text=\n\ Creates\ a\ new\ JPanel\ to\ contain\ the\ labels\ and\ their\ text\ fields.\n\ Sets\ layout\ to\ (GridLayout)\ 15\ columns\ and\ 2\ rows\ to\ hold\ above.\n
+comment3.params=label\ text
+comment3.target=void\ setLabel(javax.swing.JLabel,\ java.lang.String)
+comment3.text=\n\ @param\ label\ Text\ will\ be\ added\ to\ label\n\ @param\ text\ \ This\ is\ the\ text\ that\ will\ be\ added\ to\ the\ label,\ allowing\ user\ to\ know\ where\ to\ input\ various\ things.\n
+comment4.params=
+comment4.target=void\ initButtons()
+comment4.text=\n\ Initializes\ buttons,\ creates\ a\ new\ JPanel\ to\ caontain\ the\ buttons.\n\ Sets\ a\ FlowLayout\ inorder\ to\ organize\ the\ buttons\ cleanly.\n\ Adds\ listeners\ to\ the\ buttons,\ so\ we\ know\ when\ they\ are\ clicked.\n
+comment5.params=
+comment5.target=void\ clearTextFields()
+comment5.text=\n\ Clears\ all\ text\ fields,\n
+comment6.params=
+comment6.target=void\ center()
+numComments=7
